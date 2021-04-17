@@ -1,5 +1,4 @@
-- Struggling college student 
-- Aspiring backend programmer
+- Struggling college student
 
 <!---
 moranomicon/moranomicon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
